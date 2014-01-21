@@ -1,0 +1,8 @@
+{
+  "name": "ng-todo",
+  "description": "A todo app with angular, requirejs and local storage",
+  "version": "0.1.0",
+  "devDependencies": {
+    "grunt": "latest"
+  }
+}
